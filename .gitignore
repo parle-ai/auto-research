@@ -2,8 +2,8 @@
 autoresearch/
 deer-flow/
 storm/
-AI-Scientist/
-RD-Agent/
+ai-scientist/
+rd-agent/
 
 # OS
 .DS_Store

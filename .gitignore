@@ -1,9 +1,5 @@
-# Cloned reference projects (don't commit others' code)
-autoresearch/
-deer-flow/
-storm/
+# Too large to commit (~197MB), clone separately
 ai-scientist/
-rd-agent/
 
 # OS
 .DS_Store

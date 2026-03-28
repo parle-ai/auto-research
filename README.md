@@ -1,8 +1,6 @@
 # Auto Research
 
-Parle AI 团队对 Auto Researcher 领域的探索与分析。
-
-我们深入研究了当前最热门的 5 个自动化研究项目，提取了共性架构模式，并为每个项目编写了详细的 how-it-works tutorial。
+对 Auto Researcher 领域的探索 — 深入分析 5 个热门项目的架构模式，并为每个项目编写 how-it-works tutorial。
 
 ## 分析的项目
 
@@ -34,21 +32,10 @@ Parle AI 团队对 Auto Researcher 领域的探索与分析。
 | 5 | **可审计状态追踪** | Git/日志/中间产物，每步可回溯 |
 | 6 | **约束即创造力** | 限制越明确，Agent 行为越聚焦 |
 
-## 下一步
+## 补充
 
-这是团队对 Auto Researcher 领域的第一步探索。后续计划：
-- 实际运行各项目，记录真实体验和结果
-- 基于共性模式，构建适合我们场景的 Auto Researcher
-- 持续跟踪这个快速发展的领域
-
-## 本地补充
-
-`ai-scientist/` 因体积过大 (~197MB) 未包含在 repo 中，需要单独 clone：
+`ai-scientist/` 因体积过大 (~197MB) 未包含在 repo 中，需单独 clone：
 
 ```bash
 git clone --depth 1 https://github.com/SakanaAI/AI-Scientist.git ai-scientist
 ```
-
-## License
-
-MIT

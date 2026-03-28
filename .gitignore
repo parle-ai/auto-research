@@ -1,0 +1,13 @@
+# Cloned reference projects (don't commit others' code)
+autoresearch/
+deer-flow/
+storm/
+AI-Scientist/
+RD-Agent/
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
